@@ -111,4 +111,43 @@ body {
     width: 400px;
     height: 100px;
     background-color: GhostWhite;
+    position: absolute;
+    top: 250px;
+    left: -150px;
+    z-index: 1;
+}
+
+.fa-music {
+    display: inline-block;
+    margin-top: 8%;
+    margin-left: 13%;
+}
+
+.blue {
+    background-color: #1E90FF;
+}
+
+#blue-left {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+
+#blue-right {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
+#orange-character {
+    width: 250px;
+    height: 550px;
+    background-color: rgb(240, 78, 42);
+    position: absolute;
+    top: 25%;
+    left: 40%;
 }
